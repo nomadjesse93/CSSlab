@@ -1,0 +1,80 @@
+body {
+    font-family: 'Times New Roman', Times, serif
+}
+body{
+    background-color: white
+}
+.boxes{
+text-align: center
+}
+a{
+    text-decoration: none
+}
+a{
+    color: rgb(139, 6, 6)
+}
+.boxes{
+    display: block
+}
+
+.boxes{
+    margin: 1em
+}
+.boxes{
+    padding: 1em
+
+}
+.boxes{
+    border: 1rem solid black
+}
+.boxes{
+    border-radius: 10px
+}
+a:hover{
+    color: blueviolet
+}
+span{
+    font-weight: bolder
+}
+span{
+    color: crimson
+}
+div{
+    width: 120%;
+    width: 25em;
+    height: 10em;
+}
+#box1{
+    background-color: palegoldenrod
+}
+#box2{
+    background-color: indigo
+}
+#box3{
+    background-color: slateblue
+}
+#box4{
+    background-color: teal
+}
+.pic{
+    position: relative;
+    bottom:8em;
+    left: 6em;
+    width: 4em;
+    height: 4em;
+    background-color: black
+}
+#shows{
+    position: relative;
+    left: 35rem;
+    bottom: 50rem
+}
+h1{
+    color: chartreuse
+}
+.favs{
+    color: blueviolet
+}
+.like{
+    color: coral
+}
