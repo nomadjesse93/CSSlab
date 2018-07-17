@@ -78,3 +78,21 @@ h1{
 .like{
     color: coral
 }
+#show1{
+    color: aqua
+}
+#show2{
+    color: cyan
+}
+#show3{
+    color: darkmagenta
+}
+#show4{
+    color: deeppink
+}
+#show5{
+    color: tomato
+}
+.list{
+    border: 2px solid black
+}
